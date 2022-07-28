@@ -3,6 +3,8 @@
 
 #include <string>
 #include <iostream>
+#include <vector>
+#include <math.h>
 
 int DecimalToBinary(int d);
 int BinaryToDecimal(int b);

@@ -1,7 +1,4 @@
 #include "DtBABtD.hpp"
-#include <math.h>
-#include <stdio.h>
-#include <vector>
 
 int DecimalToBinary(int d) 
 {

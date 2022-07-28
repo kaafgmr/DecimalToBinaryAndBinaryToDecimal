@@ -2,7 +2,6 @@
 
 void main()
 {
-	//std::string BTD = "0";
 	int BTD = 0;
 	int DTB = 0;
 	int close = 0;
@@ -47,8 +46,4 @@ void main()
 			std::cout << "option not valid" << std::endl;
 		}
 	}
-	
-
-
-
 }
